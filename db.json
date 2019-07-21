@@ -1,0 +1,169 @@
+{
+  "service_categories": [
+    {
+      "id": 1,
+      "group": "H",
+      "name": "Hotels 4 Etoiles",
+      "services":[
+        {
+          "id": 1,
+          "name": "Hotel Maroua Palace",
+          "description": "",
+          "country_code": "CM",
+          "country": "Cameroon",
+          "city": "Maroua",
+          "price": 23229,
+          "currency": "XAF",
+
+        },
+        {
+          "id": 1,
+          "name": "Hotel Akena City",
+          "description": "",
+          "country_code": "CM",
+          "country": "Cameroon",
+          "city": "Buea",
+          "price": 30832,
+          "currency": "XAF",
+
+        },
+        {
+          "id": 1,
+          "name": "NOUBOU International",
+          "description": "",
+          "country_code": "CM",
+          "country": "Cameroon",
+          "city": "Maroua",
+          "price": 48656,
+          "currency": "XAF",
+
+        },
+        {
+          "id": 1,
+          "name": "Hotel Franco",
+          "description": "",
+          "country_code": "CM",
+          "country": "Cameroon",
+          "city": "Yaounde",
+          "price": 67500,
+          "currency": "XAF",
+
+        },
+        {
+          "id": 1,
+          "name": "STAR LAND HOTEL",
+          "description": "",
+          "country_code": "CM",
+          "country": "Cameroon",
+          "city": "Yaounde",
+          "price": 99270,
+          "currency": "XAF",
+
+        },
+        {
+          "id": 1,
+          "name": "Djeuga Palace Hotel",
+          "description": "",
+          "country_code": "CM",
+          "country": "Cameroon",
+          "city": "Yaounde",
+          "price": 79770,
+          "currency": "XAF",
+
+        }
+      ]
+    },
+      {
+        "id": 1,
+        "group": "H",
+        "name": "Hotels 3 Etoiles",
+        "services":[
+          {
+            "id": 1,
+            "name": "Hotel la courone",
+            "description": "",
+            "country_code": "CM",
+            "country": "Cameroon",
+            "city": "Yaounde",
+            "price": 39900,
+            "currency": "XAF",
+
+          },
+          {
+            "id": 1,
+            "name": "La Villa des lys",
+            "description": "",
+            "country_code": "CM",
+            "country": "Cameroon",
+            "city": "Yaounde",
+            "price": 58500,
+            "currency": "XAF",
+
+          },
+          {
+            "id": 1,
+            "name": "Hotel la Falaise",
+            "description": "",
+            "country_code": "CM",
+            "country": "Cameroon",
+            "city": "Yaounde",
+            "price": 80000,
+            "currency": "XAF",
+
+          },
+          {
+            "id": 1,
+            "name": "Hotel Merina",
+            "description": "",
+            "country_code": "CM",
+            "country": "Cameroon",
+            "city": "Yaounde",
+            "price": 42000,
+            "currency": "XAF",
+
+          }
+        ]
+      },
+      {
+        "id": 1,
+        "group": "H",
+        "name": "Auberges",
+        "services":[
+          {
+            "id": 1,
+            "name": "Swiss Hotel Stutz",
+            "description": "",
+            "country_code": "CM",
+            "country": "Cameroon",
+            "city": "Yaounde",
+            "price": 6250,
+            "currency": "XAF",
+
+          },
+          {
+            "id": 1,
+            "name": "Tou'gnou Hotel",
+            "description": "",
+            "country_code": "CM",
+            "country": "Cameroon",
+            "city": "Yaounde",
+            "price": 22000,
+            "currency": "XAF",
+
+          },
+          {
+            "id": 1,
+            "name": "Mont Mandara Hotel",
+            "description": "",
+            "country_code": "CM",
+            "country": "Cameroon",
+            "city": "Yaounde",
+            "price": 20000,
+            "currency": "XAF",
+
+          }
+        ]
+      }
+    ]
+
+}
