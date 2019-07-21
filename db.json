@@ -13,7 +13,7 @@
           "country": "Cameroon",
           "city": "Maroua",
           "price": 23229,
-          "currency": "XAF",
+          "currency": "XAF"
 
         },
         {
@@ -24,7 +24,7 @@
           "country": "Cameroon",
           "city": "Buea",
           "price": 30832,
-          "currency": "XAF",
+          "currency": "XAF"
 
         },
         {
@@ -35,7 +35,7 @@
           "country": "Cameroon",
           "city": "Maroua",
           "price": 48656,
-          "currency": "XAF",
+          "currency": "XAF"
 
         },
         {
@@ -46,7 +46,7 @@
           "country": "Cameroon",
           "city": "Yaounde",
           "price": 67500,
-          "currency": "XAF",
+          "currency": "XAF"
 
         },
         {
@@ -57,7 +57,7 @@
           "country": "Cameroon",
           "city": "Yaounde",
           "price": 99270,
-          "currency": "XAF",
+          "currency": "XAF"
 
         },
         {
@@ -68,7 +68,7 @@
           "country": "Cameroon",
           "city": "Yaounde",
           "price": 79770,
-          "currency": "XAF",
+          "currency": "XAF"
 
         }
       ]
@@ -86,7 +86,7 @@
             "country": "Cameroon",
             "city": "Yaounde",
             "price": 39900,
-            "currency": "XAF",
+            "currency": "XAF"
 
           },
           {
@@ -97,7 +97,7 @@
             "country": "Cameroon",
             "city": "Yaounde",
             "price": 58500,
-            "currency": "XAF",
+            "currency": "XAF"
 
           },
           {
@@ -108,7 +108,7 @@
             "country": "Cameroon",
             "city": "Yaounde",
             "price": 80000,
-            "currency": "XAF",
+            "currency": "XAF"
 
           },
           {
@@ -119,7 +119,7 @@
             "country": "Cameroon",
             "city": "Yaounde",
             "price": 42000,
-            "currency": "XAF",
+            "currency": "XAF"
 
           }
         ]
@@ -137,7 +137,7 @@
             "country": "Cameroon",
             "city": "Yaounde",
             "price": 6250,
-            "currency": "XAF",
+            "currency": "XAF"
 
           },
           {
@@ -148,7 +148,7 @@
             "country": "Cameroon",
             "city": "Yaounde",
             "price": 22000,
-            "currency": "XAF",
+            "currency": "XAF"
 
           },
           {
@@ -159,7 +159,7 @@
             "country": "Cameroon",
             "city": "Yaounde",
             "price": 20000,
-            "currency": "XAF",
+            "currency": "XAF"
 
           }
         ]
