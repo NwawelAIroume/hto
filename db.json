@@ -13,8 +13,12 @@
           "country": "Cameroon",
           "city": "Maroua",
           "price": 23229,
-          "currency": "XAF"
-
+          "currency": "XAF",
+          "picture1": "https://cdn-travel.jumia.com/web_hotel_detail_gallery/hotel-maroua-palace-13490-2b833739c34d3741894361ab1624ae27eae5c5fd.jpg",
+          "picture2": "https://cdn-travel.jumia.com/web_hotel_detail_gallery/hotel-maroua-palace-13490-2429046754995948db61ab8957203e4e3605262f.jpg",
+          "picture3": "https://cdn-travel.jumia.com/web_hotel_detail_gallery/hotel-maroua-palace-13490-6c337ee97df950be8dc0013e3f3f72522dfbd5bf.jpeg",
+          "picture4": "https://cdn-travel.jumia.com/web_hotel_detail_gallery/hotel-maroua-palace-13490-8eb555b33a0ae9b5d1189f742167eba724f7ccd4.jpg",
+          "picture5": "https://cdn-travel.jumia.com/web_hotel_detail_gallery/hotel-maroua-palace-13490-dc96b487eac7a05f6a23f9d469567c1e74d4cdaf.jpg"
         },
         {
           "id": 1,
@@ -22,20 +26,30 @@
           "description": "",
           "country_code": "CM",
           "country": "Cameroon",
-          "city": "Buea",
+          "city": "Douala",
           "price": 30832,
-          "currency": "XAF"
+          "currency": "XAF",
+          "picture1": "https://cdn-travel.jumia.com/web_hotel_detail_gallery/hotel-akena-city-22655-ef40cf5acd230a40b53b35ff826858a64c8c693f.jpeg",
+          "picture2": "https://cdn-travel.jumia.com/web_hotel_detail_gallery/hotel-akena-city-22655-da82044256c279fe2ca76a360c15d847d3ad0443.jpeg",
+          "picture3": "https://cdn-travel.jumia.com/web_hotel_detail_gallery/hotel-akena-city-22655-dd22a2b8e0dac49f05308802312ceabf74cc8df1.jpeg",
+          "picture4": "https://cdn-travel.jumia.com/web_hotel_detail_gallery/hotel-akena-city-22655-1bad07b5c14ae37e3aeffdaa276e6eda4a093a5a.jpeg",
+          "picture5": null
 
         },
         {
           "id": 1,
           "name": "NOUBOU International",
-          "description": "",
+          "description": "Situation de l'établissement En choisissant Noubou International Hotel à Douala, vous profiterez d'un agréable séjour à moins de 5 minutes en voiture de Port de Douala et Marché d'Eko. Cet hôtel 4 étoiles se trouve à 1 km de Cathédrale de Saints-Pierre-et-Paul et à 1,7 km de La Nouvelle Liberté.\nChambres Les 65 chambres climatisées de l'établissement vous invitent à la détente et comprennent un...",
           "country_code": "CM",
           "country": "Cameroon",
           "city": "Maroua",
           "price": 48656,
-          "currency": "XAF"
+          "currency": "XAF",
+          "picture1": "https://s1.hocdn.com/cache/exp/max350xmax194/hotels/17000000/16210000/16209400/16209380/7b8260e9_b.jpg",
+          "picture2": "https://s1.hocdn.com/cache/exp/max350xmax194/hotels/17000000/16210000/16209400/16209380/b23728c4_b.jpg",
+          "picture3": null,
+          "picture4": null,
+          "picture5": null
 
         },
         {
@@ -46,7 +60,12 @@
           "country": "Cameroon",
           "city": "Yaounde",
           "price": 67500,
-          "currency": "XAF"
+          "currency": "XAF",
+          "picture1": "https://r-ak.bstatic.com/images/hotel/max1024x768/157/157459207.jpg",
+          "picture2": "https://r-ak.bstatic.com/images/hotel/max1024x768/304/30495538.jpg",
+          "picture3": null,
+          "picture4": null,
+          "picture5": null
 
         },
         {
@@ -57,18 +76,28 @@
           "country": "Cameroon",
           "city": "Yaounde",
           "price": 99270,
-          "currency": "XAF"
+          "currency": "XAF",
+          "picture1": "https://cdn-travel.jumia.com/web_hotel_detail_gallery/star-land-hotel-21627-15576d2f5c948ced4305052d7f108846ac6d8f87.JPG",
+          "picture2": "https://cdn-travel.jumia.com/web_hotel_detail_gallery/star-land-hotrl-21627-92e784af2fbfe98de88527dba47bfbdb2d832ed5.JPG",
+          "picture3": null,
+          "picture4": null,
+          "picture5": null
 
         },
         {
           "id": 1,
           "name": "Djeuga Palace Hotel",
-          "description": "",
+          "description": "Le Djeuga Palace Hotel de Yaoundé dispose d'une connexion Wi-Fi gratuite, d'un bar et d'un jardin. Il possède également une piscine extérieure, une salle de sport et un parking gratuit.\nToutes les chambres sont équipées de la climatisation, d'une télévision par satellite à écran plat et d'un bureau. Elles offrent une vue sur la ville, la piscine, la cour intérieure et la rue. Chaque chambre comprend une salle de bains privative pourvue d'articles de toilette gratuits et d'un sèche-cheveux.\nChaque jour, vous aurez le choix entre un petit-déjeuner américain et continental. Le restaurant du Djeuga Palace Hotel est spécialisé dans la cuisine africaine et américaine.\nLe personnel de la réception ouverte 24h/24 parle anglais et français. Il saura vous fournir des conseils utiles pour visiter la région.\nLe Djeuga Palace Hotel se trouve à environ 21 km de l'aéroport international de Yaoundé Nsimalen. Un service de navette aéroport est assuré sur demande.\nCet établissement a également été bien noté pour son excellent emplacement à Yaoundé ! Les clients en sont plus satisfaits en comparaison avec d'autres établissements dans cette ville.\nLes couples apprécient particulièrement l'emplacement de cet établissement. Ils lui donnent la note de 8,3 pour un séjour à deux.",
           "country_code": "CM",
           "country": "Cameroon",
           "city": "Yaounde",
           "price": 79770,
-          "currency": "XAF"
+          "currency": "XAF",
+          "picture1": "https://q-ak.bstatic.com/images/hotel/max1024x768/163/163083756.jpg",
+          "picture2": "https://q-ak.bstatic.com/images/hotel/max1024x768/163/163768172.jpg",
+          "picture3": "https://r-ak.bstatic.com/images/hotel/max1024x768/163/163768278.jpg",
+          "picture4": "https://q-ak.bstatic.com/images/hotel/max1024x768/163/163768021.jpg",
+          "picture5": null
 
         }
       ]
@@ -81,45 +110,65 @@
           {
             "id": 1,
             "name": "Hotel la courone",
-            "description": "",
+            "description": "Set in Yaoundé, 1.5 km from Yaounde Multipurpose Sports Complex, Hôtel La Couronne RW offers air-conditioned rooms and a bar. Among the facilities of this property are a restaurant, a 24-hour front desk and room service, along with free WiFi. The accommodation provides a concierge service, ticket service and currency exchange for guests.\nThe units in the hotel are equipped with a kettle. At Hôtel La Couronne RW every room includes a desk, a flat-screen TV and a private bathroom.\nGuests at the accommodation can enjoy a continental breakfast.\nHôtel La Couronne RW offers a terrace.\nFrench Institute of Cameroon is 2.5 km from the hotel, while Blackitude Museum is 2.5 km away.\nCet établissement a également été bien noté pour son excellent emplacement à Yaoundé ! Les clients en sont plus satisfaits en comparaison avec d'autres établissements dans cette ville.\nCet établissement a également été bien noté pour son excellent rapport qualité/prix à Yaoundé ! Les clients en ont plus pour leur argent en comparaison avec d'autres établissements dans cette ville.\nNous parlons votre langue !",
             "country_code": "CM",
             "country": "Cameroon",
             "city": "Yaounde",
             "price": 39900,
-            "currency": "XAF"
+            "currency": "XAF",
+            "picture1": "https://r-ak.bstatic.com/images/hotel/max1024x768/190/190240152.jpg",
+            "picture2": null,
+            "picture3": null,
+            "picture4": null,
+            "picture5": null
 
           },
           {
             "id": 1,
             "name": "La Villa des lys",
-            "description": "",
+            "description": "La Villa des Lys est un Hôtel-Boutique de charme, intime et design de 6 chambres et suites, à la beauté architecturale typiquement tropicale et raffinée jusqu’au moindre détail.  Cette confortable maison privée allie charme authentique, luxe discret et ambiance contemporaine.",
             "country_code": "CM",
             "country": "Cameroon",
             "city": "Yaounde",
             "price": 58500,
-            "currency": "XAF"
+            "currency": "XAF",
+            "picture1": "https://www.lavilladeslys.com/wp-content/uploads/2018/04/restaurant-2.jpg",
+            "picture2": "https://www.lavilladeslys.com/wp-content/uploads/2018/03/amanjenaok.jpg",
+            "picture3": "https://www.lavilladeslys.com/wp-content/uploads/2018/04/salon.jpg",
+            "picture4": "https://www.lavilladeslys.com/wp-content/uploads/2018/04/nuit.jpg",
+            "picture5": null
 
           },
           {
             "id": 1,
             "name": "Hotel la Falaise",
-            "description": "",
+            "description": "Situé à Yaoundé, l'Hotel La Falaise Yaounde dispose d'une piscine intérieure et d'un restaurant.\nLes chambres comportent la climatisation ainsi qu'une salle de bains privative pourvue d'une douche et de chaussons. Elles offrent également une vue sur la ville. Vous bénéficierez gratuitement d'une connexion Wi-Fi.\nL'Hotel La Falaise Yaounde possède une réception ouverte 24h/24, un jardin, un bar ainsi qu'un salon commun. De plus, vous pourrez profiter d'un parking gratuit.\nL'aéroport international de Yaoundé - Nsimalen se trouve à 25 km.\nCet établissement a également été bien noté pour son excellent emplacement à Yaoundé ! Les clients en sont plus satisfaits en comparaison avec d'autres établissements dans cette ville.\nNous parlons votre langue !",
             "country_code": "CM",
             "country": "Cameroon",
             "city": "Yaounde",
             "price": 80000,
-            "currency": "XAF"
+            "currency": "XAF",
+            "picture1": "https://r-ak.bstatic.com/images/hotel/max1024x768/463/46373950.jpg",
+            "picture2": null,
+            "picture3": null,
+            "picture4": null,
+            "picture5": null
 
           },
           {
             "id": 1,
             "name": "Hotel Merina",
-            "description": "",
+            "description": "Bénéficiant d'une piscine extérieure et d'une connexion Wi-Fi gratuite, l'Hotel Merina vous accueille à Yaoundé. Vous pourrez prendre un verre au bar sur place et vous détendre dans le jardin.\nClimatisées, les chambres sont équipées d'une armoire, d'un bureau et d'une télévision par satellite à écran plat. Elles sont également pourvues d'une salle de bains privative avec une baignoire ou une douche et des articles de toilette gratuits. Certaines disposent d'un coin salon, tandis que toutes offrent une vue sur la piscine et la ville.\nChaque matin, l'établissement sert un petit-déjeuner buffet. Le restaurant sur place, La Pirogue, est spécialisé dans les plats africains, américains, européens et asiatiques.\nParlant anglais, espagnol, français et italien, le personnel de la réception ouverte 24h/24 est à votre disposition pour vous fournir les informations nécessaires à votre séjour.\nL'aéroport de Nsimalen se trouve à 3 km. Enfin, l'Hotel Merina assure gratuitement un service de navette aéroport.",
             "country_code": "CM",
             "country": "Cameroon",
             "city": "Yaounde",
             "price": 42000,
-            "currency": "XAF"
+            "currency": "XAF",
+            "picture1": "https://r-ak.bstatic.com/images/hotel/max1024x768/351/35123978.jpg",
+            "picture2": null,
+            "picture3": null,
+            "picture4": null,
+            "picture5": null
 
           }
         ]
@@ -132,34 +181,49 @@
           {
             "id": 1,
             "name": "Swiss Hotel Stutz",
-            "description": "",
+            "description": "Swiss Hotel Stutz est situé à Yaoundé, au Cameroun.\nChaque chambre dispose d'un téléviseur et d'une salle de bain.\nLe restaurant sur place sert des plats locaux et continentaux, tandis que les clients peuvent commander une grande variété de boissons ",
             "country_code": "CM",
             "country": "Cameroon",
             "city": "Yaounde",
             "price": 6250,
-            "currency": "XAF"
+            "currency": "XAF",
+            "picture1": "https://cdn-travel.jumia.com/web_hotel_detail_gallery/swiss-hotel-stutz-10827-2b8222e988a050b9a6fcd719bf936874634773e8.jpg",
+            "picture2": null,
+            "picture3": null,
+            "picture4": null,
+            "picture5": null
 
           },
           {
             "id": 1,
             "name": "Tou'gnou Hotel",
-            "description": "",
+            "description": "Situation de l'établissement\nEn choisissant Tou'Ngou Hotel, vous profiterez d'un séjour en plein centre de Yaoundé, à moins de 10 minutes à pied de Musée national des douanes et Art Museum (musée d'art). Cet hôtel se trouve à 9,8 km de Université de Yaoundé et à 12,6 km de Stade omnisports.\nChambres\nLes 58 chambres climatisées de l'établissement vous invitent à la détente et comprennent une télévision...",
             "country_code": "CM",
             "country": "Cameroon",
             "city": "Yaounde",
             "price": 22000,
-            "currency": "XAF"
+            "currency": "XAF",
+            "picture1": "https://s1.hocdn.com/cache/exp/max350xmax194/hotels/5000000/4800000/4798700/4798608/0c8416b3_b.jpg",
+            "picture2": null,
+            "picture3": null,
+            "picture4": null,
+            "picture5": null
 
           },
           {
             "id": 1,
             "name": "Mont Mandara Hotel",
-            "description": "",
+            "description": "Mont Mandara Hotel est très bien situé au quartier Golf, idéal pour des voyages d'affaires.\nA 8 minutes à pied du Palais des Congrès - Mont Mandara Hotel est situé dans un quartier résidentiel à Yaoundé au Cameroun. L'hôtel propose des chambres propres et confortables, une salle de conférence et de réception.\nLes chambres sont soigneusement meublées et disposent de climatiseurs, de téléviseurs à écran plat câblés, de lampes de chevet, de fauteuils et de salles de bain privatives.\nLe restaurant de l'hôtel Mont Mandara sert une grande variété de plats tandis que le bar propose une diversité de boissons avec ou sans ",
             "country_code": "CM",
             "country": "Cameroon",
             "city": "Yaounde",
             "price": 20000,
-            "currency": "XAF"
+            "currency": "XAF",
+            "picture1": "https://cdn-travel.jumia.com/web_hotel_detail_gallery/mont-mandara-hotel-22474-ef6e8f6faea15c9a2e138286f49f769b7d32f41f.JPG",
+            "picture2": null,
+            "picture3": null,
+            "picture4": null,
+            "picture5": null
 
           }
         ]
